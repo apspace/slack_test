@@ -1,6 +1,5 @@
 @charset "UTF-8";
-/*Обнуление*/
-@import url("https://fonts.googleapis.com/css?family=DM+Sans&display=swap");
+@import url("@import url('https://fonts.googleapis.com/css?family=DM+Sans:400,700&display=swap');");
 * {
   padding: 0;
   margin: 0;
